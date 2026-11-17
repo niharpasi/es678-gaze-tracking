@@ -45,6 +45,8 @@ Low-shot calibration: Ridge error decreases to 64.37 mm using nine calibration p
 Spatial analysis: Prediction error is higher near screen boundaries than at the centre.
 
 # Running the Project
+Clone the repository.
+
 Run the main script from the project directory:
 
 python main.py
