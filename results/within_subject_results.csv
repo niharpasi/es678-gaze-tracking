@@ -1,0 +1,6 @@
+Model,Within_Subject_Mean_mm,Within_Subject_Std_mm
+Baseline 1: Central Prior,91.88,4.48
+Baseline 2: OLS (Raw Pupils),85.08,9.88
+Model 1: Multi-Output Ridge,58.89,10.6
+Model 2: Kernel Ridge (RBF),54.66,10.14
+"Model 3: SVR (RBF, eps=2.0)",56.52,10.55

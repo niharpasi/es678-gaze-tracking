@@ -1,0 +1,4 @@
+Screen_Zone,Samples,ZeroShot_Mean_mm,Calibrated_k5_Mean_mm,Min_Safe_Btn_Radius_ZeroShot_mm,Min_Safe_Btn_Radius_Cal5_mm
+Inner Center (r <= 0.22),3221,50.38,49.17,102.37,104.54
+Mid Screen (0.22 < r <= 0.42),8480,60.46,59.79,120.89,120.27
+Outer Corners (r > 0.42),9374,79.45,76.9,146.71,145.04
