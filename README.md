@@ -45,7 +45,11 @@ Low-shot calibration: Ridge error decreases to 64.37 mm using nine calibration p
 Spatial analysis: Prediction error is higher near screen boundaries than at the centre.
 
 # Running the Project
-
 Run the main script from the project directory:
 
 python main.py
+
+# AI-use disclosure
+The MPIIGaze dataset (download link has been provided above). I used ChatGPT to assist with explanations and report writing, Gemini for code assistance. I independently checked the implementation, evaluation outputs, numerical results, and reported conclusions against the code and experiment outputs.
+
+
